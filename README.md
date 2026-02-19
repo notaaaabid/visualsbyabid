@@ -1,11 +1,8 @@
 <div align="center">
 
 # Abid
-### Video Editor • Graphic Designer • Web Developer  
-#### Project Manager @ Tascbar
 
-21 y/o CS major building products on the web.  
-Blending creativity with technology.
+*21 y/o computer science major and web developer, with skills in graphic design and video editing*
 
 [![Tascbar Project Manager](https://img.shields.io/badge/Tascbar-Project%20Manager-000000?style=for-the-badge)](https://tascbar.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/notaaaabid)
